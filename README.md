@@ -216,7 +216,6 @@ This repository contains components that are proprietary to the creator, includi
 - Specific business logic implemented in `flask_app/` and `scripts/`.
 
 The contents of these directories are for educational and portfolio purposes only. Reproduction, distribution, or modification for commercial purposes is strictly prohibited without prior permission.
-For inquiries about licensing or collaboration, please contact Shinso at the contact info below
-For more details about this project or other inquiries:
+For inquiries about licensing or collaboration, please contact Shinso at the contact info below for more details about this project or other inquiries:
 - **Email:** [wolfsonshinso@gmail.com]
 - **GitHub:** [https://github.com/ShinsoWolfson]
